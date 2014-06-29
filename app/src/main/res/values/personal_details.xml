@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Title</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="senior_citizen">Senior Citizen</string>
+    <string name="genere">Genere</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="living_in_metro">Living in Metro</string>
+    <string name="income_mode">Income Mode</string>
+    <string name="monthly">Monthly</string>
+    <string name="annual">Annual</string>
+    <string name="next">Next</string>
+    <string-array name="title_list">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Miss</item>
+    </string-array>
+</resources>
